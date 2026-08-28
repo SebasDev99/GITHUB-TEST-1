@@ -1,0 +1,8 @@
+para crear un repositorio
+
+    git init 
+        CREA UN REPOSITORIO DE GIT EN EL PROYECTO DONDE SE EJECUTE
+    git add. 
+        AÑADE LOS ARCHIVOS SIN SEGUIMIENTO AL REPOSITORIO DE GIT
+    git commite -m 'msj descriptivo'
+        versionar los cambios añadidos
