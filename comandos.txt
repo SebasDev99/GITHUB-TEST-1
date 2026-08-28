@@ -6,3 +6,7 @@ para crear un repositorio
         AÑADE LOS ARCHIVOS SIN SEGUIMIENTO AL REPOSITORIO DE GIT
     git commite -m 'msj descriptivo'
         versionar los cambios añadidos
+    git status
+        nos da un estado actual de nuestro repositorio
+        es como pedirle a tu asesor financiero si esta todo bien?
+        
