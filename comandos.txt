@@ -1,5 +1,7 @@
 para crear un repositorio
 
+    git commands
+
     git init 
         CREA UN REPOSITORIO DE GIT EN EL PROYECTO DONDE SE EJECUTE
     git add. 
@@ -9,4 +11,3 @@ para crear un repositorio
     git status
         nos da un estado actual de nuestro repositorio
         es como pedirle a tu asesor financiero si esta todo bien?
-        
