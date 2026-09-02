@@ -10,7 +10,22 @@ para crear un repositorio
 
     git commit -m 'msj descriptivo'
         versionar los cambios añadidos
-        
+
     git status
         nos da un estado actual de nuestro repositorio
         es como pedirle a tu asesor financiero si esta todo bien?
+
+    git remote add origin https://github.com/SebasDev99/GITHUB-TEST-1.git
+        añadir una direccion remota (direccion de repositorio remoto) a nuestro repo local
+
+    git remote -v
+        verificar la direccion remota a la que esta conectado nuestro repo local
+
+    git remote set-url origin <direccion del repo en la nube>
+        sirve para corregir/rectificar la url de la direccion del repo
+        o cambiaste la direccion del repo y lo queres subir a otro lado
+        
+    para actualizar un repo y subir otro commit a la nube
+        git add .
+        git commit -m "mensaje"
+        git push
